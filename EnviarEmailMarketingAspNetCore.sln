@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnviarEmailMarketingAspNetCore", "EnviarEmailMarketingAspNetCore\EnviarEmailMarketingAspNetCore.csproj", "{C28D5043-50A9-41CA-B510-76DE4D2499EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C28D5043-50A9-41CA-B510-76DE4D2499EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C28D5043-50A9-41CA-B510-76DE4D2499EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C28D5043-50A9-41CA-B510-76DE4D2499EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C28D5043-50A9-41CA-B510-76DE4D2499EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C0333DE-9146-4790-94A6-4E1321BA2A2D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,42 @@
+[2019-07-10 11:25:58.4213][DESKTOP-T36ROUH][Info] Request starting HTTP/2.0 GET https://localhost:44309/   
+[2019-07-10 11:25:58.5476][DESKTOP-T36ROUH][Info] Executing endpoint 'EnviarEmailMarketingAspNetCore.Controllers.HomeController.Index (EnviarEmailMarketingAspNetCore)' 
+[2019-07-10 11:25:58.5645][DESKTOP-T36ROUH][Info] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller EnviarEmailMarketingAspNetCore.Controllers.HomeController (EnviarEmailMarketingAspNetCore). 
+[2019-07-10 11:26:05.2258][DESKTOP-T36ROUH][Info] Executing action method EnviarEmailMarketingAspNetCore.Controllers.HomeController.Index (EnviarEmailMarketingAspNetCore) - Validation state: Valid 
+[2019-07-10 11:26:07.1391][DESKTOP-T36ROUH][Info] Action Index :: HomeController -> executou leitura do arquivo  11:26:07 
+[2019-07-10 11:26:15.6656][DESKTOP-T36ROUH][Info] Executed action method EnviarEmailMarketingAspNetCore.Controllers.HomeController.Index (EnviarEmailMarketingAspNetCore), returned result Microsoft.AspNetCore.Mvc.ViewResult in 10391.0217ms. 
+[2019-07-10 11:26:15.7533][DESKTOP-T36ROUH][Info] Executing ViewResult, running view Index. 
+[2019-07-10 11:26:16.4370][DESKTOP-T36ROUH][Info] Executed ViewResult - view Index executed in 737.975ms. 
+[2019-07-10 11:26:16.4370][DESKTOP-T36ROUH][Info] Executed action EnviarEmailMarketingAspNetCore.Controllers.HomeController.Index (EnviarEmailMarketingAspNetCore) in 17873.924ms 
+[2019-07-10 11:26:16.4501][DESKTOP-T36ROUH][Info] Executed endpoint 'EnviarEmailMarketingAspNetCore.Controllers.HomeController.Index (EnviarEmailMarketingAspNetCore)' 
+[2019-07-10 11:26:16.4501][DESKTOP-T36ROUH][Info] Request finished in 18052.588ms 200 text/html; charset=utf-8 
+[2019-07-10 11:26:16.4829][DESKTOP-T36ROUH][Info] Request starting HTTP/2.0 GET https://localhost:44309/lib/bootstrap/dist/css/bootstrap.css   
+[2019-07-10 11:26:16.4829][DESKTOP-T36ROUH][Info] Request starting HTTP/2.0 GET https://localhost:44309/css/site.css   
+[2019-07-10 11:26:16.4829][DESKTOP-T36ROUH][Info] Request starting HTTP/2.0 GET https://localhost:44309/lib/jquery/dist/jquery.js   
+[2019-07-10 11:26:16.4829][DESKTOP-T36ROUH][Info] Request starting HTTP/2.0 GET https://localhost:44309/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0   
+[2019-07-10 11:26:16.4991][DESKTOP-T36ROUH][Info] Request starting HTTP/2.0 GET https://localhost:44309/lib/bootstrap/dist/js/bootstrap.bundle.js   
+[2019-07-10 11:26:16.5408][DESKTOP-T36ROUH][Info] Sending file. Request path: '/js/site.js'. Physical path: 'C:\GitHub\Projeto.EnviarEmailMarketingAspNetCore\EnviarEmailMarketingAspNetCore\EnviarEmailMarketingAspNetCore\wwwroot\js\site.js' 
+[2019-07-10 11:26:16.5476][DESKTOP-T36ROUH][Info] Sending file. Request path: '/css/site.css'. Physical path: 'C:\GitHub\Projeto.EnviarEmailMarketingAspNetCore\EnviarEmailMarketingAspNetCore\EnviarEmailMarketingAspNetCore\wwwroot\css\site.css' 
+[2019-07-10 11:26:16.5476][DESKTOP-T36ROUH][Info] Request finished in 64.679ms 200 application/javascript 
+[2019-07-10 11:26:16.5736][DESKTOP-T36ROUH][Info] Request finished in 66.8392ms 200 text/css 
+[2019-07-10 11:26:16.5736][DESKTOP-T36ROUH][Info] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'C:\GitHub\Projeto.EnviarEmailMarketingAspNetCore\EnviarEmailMarketingAspNetCore\EnviarEmailMarketingAspNetCore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js' 
+[2019-07-10 11:26:16.5898][DESKTOP-T36ROUH][Info] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'C:\GitHub\Projeto.EnviarEmailMarketingAspNetCore\EnviarEmailMarketingAspNetCore\EnviarEmailMarketingAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap.css' 
+[2019-07-10 11:26:16.5898][DESKTOP-T36ROUH][Info] Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'C:\GitHub\Projeto.EnviarEmailMarketingAspNetCore\EnviarEmailMarketingAspNetCore\EnviarEmailMarketingAspNetCore\wwwroot\lib\jquery\dist\jquery.js' 
+[2019-07-10 11:26:16.5898][DESKTOP-T36ROUH][Info] Request finished in 95.7567ms 200 application/javascript 
+[2019-07-10 11:26:16.5898][DESKTOP-T36ROUH][Info] Request finished in 118.577ms 200 text/css 
+[2019-07-10 11:26:16.5898][DESKTOP-T36ROUH][Info] Request finished in 122.3189ms 200 application/javascript 
+[2019-07-10 11:26:16.7166][DESKTOP-T36ROUH][Info] Request starting HTTP/2.0 GET https://localhost:44309/favicon.ico   
+[2019-07-10 11:26:16.7166][DESKTOP-T36ROUH][Info] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\GitHub\Projeto.EnviarEmailMarketingAspNetCore\EnviarEmailMarketingAspNetCore\EnviarEmailMarketingAspNetCore\wwwroot\favicon.ico' 
+[2019-07-10 11:26:16.7166][DESKTOP-T36ROUH][Info] Request finished in 11.9802ms 200 image/x-icon 
+[2019-07-10 11:27:22.5844][DESKTOP-T36ROUH][Info] Request starting HTTP/2.0 GET https://localhost:44309/   
+[2019-07-10 11:27:22.6700][DESKTOP-T36ROUH][Info] Executing endpoint 'EnviarEmailMarketingAspNetCore.Controllers.HomeController.Index (EnviarEmailMarketingAspNetCore)' 
+[2019-07-10 11:27:22.6899][DESKTOP-T36ROUH][Info] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller EnviarEmailMarketingAspNetCore.Controllers.HomeController (EnviarEmailMarketingAspNetCore). 
+[2019-07-10 11:27:22.7048][DESKTOP-T36ROUH][Info] Executing action method EnviarEmailMarketingAspNetCore.Controllers.HomeController.Index (EnviarEmailMarketingAspNetCore) - Validation state: Valid 
+[2019-07-10 11:27:22.7048][DESKTOP-T36ROUH][Info] Action Index :: HomeController -> executou leitura do arquivo  11:27:22 
+[2019-07-10 11:27:24.8258][DESKTOP-T36ROUH][Info] Action Email :: HomeController -> Enviando o e-mail  11:27:24 
+[2019-07-10 11:27:27.7719][DESKTOP-T36ROUH][Info] Action Email :: HomeController -> email enviado com sucesso  11:27:27 
+[2019-07-10 11:27:27.7783][DESKTOP-T36ROUH][Info] Executed action method EnviarEmailMarketingAspNetCore.Controllers.HomeController.Index (EnviarEmailMarketingAspNetCore), returned result Microsoft.AspNetCore.Mvc.ViewResult in 5067.8563ms. 
+[2019-07-10 11:27:27.8069][DESKTOP-T36ROUH][Info] Executing ViewResult, running view Index. 
+[2019-07-10 11:27:27.9490][DESKTOP-T36ROUH][Info] Executed ViewResult - view Index executed in 155.4563ms. 
+[2019-07-10 11:27:27.9490][DESKTOP-T36ROUH][Info] Executed action EnviarEmailMarketingAspNetCore.Controllers.HomeController.Index (EnviarEmailMarketingAspNetCore) in 5259.2995ms 
+[2019-07-10 11:27:27.9490][DESKTOP-T36ROUH][Info] Executed endpoint 'EnviarEmailMarketingAspNetCore.Controllers.HomeController.Index (EnviarEmailMarketingAspNetCore)' 
+[2019-07-10 11:27:27.9691][DESKTOP-T36ROUH][Info] Request finished in 5389.892ms 200 text/html; charset=utf-8 
